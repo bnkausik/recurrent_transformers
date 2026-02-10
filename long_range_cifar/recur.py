@@ -1,6 +1,6 @@
 ######################
-bnkausik at gmail.com
-code for the recurrent tranformers in the paper https://arxiv.org/abs/2402.14746
+#bnkausik at gmail.com
+#code for the recurrent tranformers in the paper https://arxiv.org/abs/2402.14746
 ######################
 
 
@@ -159,5 +159,6 @@ if __name__ == '__main__':
     print(vars(GPTConfig))
     sys.stdout.flush()
     train()
+
 
 
