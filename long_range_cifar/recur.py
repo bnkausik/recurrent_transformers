@@ -1,3 +1,9 @@
+######################
+bnkausik at gmail.com
+code for the recurrent tranformers in the paper https://arxiv.org/abs/2402.14746
+######################
+
+
 ########################################
 #block recurrent transformer with forget
 ########################################
@@ -153,4 +159,5 @@ if __name__ == '__main__':
     print(vars(GPTConfig))
     sys.stdout.flush()
     train()
+
 
