@@ -1,3 +1,10 @@
+######################
+bnkausik at gmail.com
+code for the recurrent tranformers in the paper https://arxiv.org/abs/2402.14746
+######################
+
+
+
 """
 This training script can be run both on a single gpu in debug mode,
 and also in a larger training run with distributed data parallel (ddp).
