@@ -1,3 +1,7 @@
+######################
+#bnkausik at gmail.com
+#code for the recurrent tranformers in the paper https://arxiv.org/abs/2402.14746
+######################
 #recursive transformer for selective copying
 
 import math
