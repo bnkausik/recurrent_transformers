@@ -1,0 +1,2 @@
+usage
+python recur.py
