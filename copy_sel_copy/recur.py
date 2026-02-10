@@ -1,3 +1,11 @@
+######################
+bnkausik at gmail.com
+code for the recurrent tranformers in the paper https://arxiv.org/abs/2402.14746
+######################
+
+
+
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -125,4 +133,5 @@ if __name__ == '__main__':
     print(dataset_config)
     print(vars(GPTConfig))
     train()
+
 
